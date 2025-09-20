@@ -12,6 +12,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-c.py
-t.py
-s.py
+/c.py
+/t.py
+/s.py
